@@ -33,7 +33,7 @@ Você pode visualizar a página no navegador abrindo o arquivo index.html ou pub
 
 Exemplo de publicação no GitHub Pages:
 
-https://seu-usuario.github.io/nome-do-repositorio/
+https://pdavidborges.github.io/card/
 
 📖 Aprendizados
 
